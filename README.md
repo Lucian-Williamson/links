@@ -90,9 +90,7 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
   1. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
-  1. [Huntr](https://huntr.co/)
-  1. [Monster](https://www.monster.com/)
-  1. [Snag](https://www.snagajob.com/)
+  1. [scopicsoftware](https://scopicsoftware.hire.trakstar.com/) - Job board and aggregator for software jobs
 </details>
 
 ## Job boards
