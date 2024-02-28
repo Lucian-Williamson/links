@@ -1,5 +1,5 @@
 # Useful Links
-_Credit: Stolen from awesome listen_
+_Credit: Slightly stolen from awesome list_
 
 A curated list of awesome niche job boards. Search tool [here](https://awesomelists.top/#/).
 
