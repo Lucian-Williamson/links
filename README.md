@@ -1,10 +1,16 @@
 # Useful Links
-_Credit: Slightly stolen from awesome list_
+_Credit: Slightly stolen from [awesome](awesome) list_
 
 A curated list of awesome niche job boards. Search tool [here](https://awesomelists.top/#/).
 
 ## Table of Contents
 
+- [Job Dreaming](#job-dreaming)
+- [Profile Building](#profile-building)
+- [Questionable-Resume-Services](#questionable-resume-services)
+- [Soft-Skills](#soft-skills)
+- [Interview](#interview)
+- [TC / Salaries](#tc--salaries)
 - [Job boards aggregators](#job-boards-aggregators)
 - [Job boards](#job-boards)
 - [DevOps](#devops)
@@ -16,6 +22,13 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 - [Tech](#tech)
 - [Link Search tool](#tech)
 
+
+
+## Job Dreaming
+
+1. [Future Jobs](https://100jobsofthefuture.com/browse/)
+1. [ML/AI Career Test](https://www.careerexplorer.com/career-test/)
+1. [9 Books That Will Help You Find Your Dream Job](https://www.businessinsider.com/dream-job-reading-list-2014-12#how-will-you-measure-your-life-by-clay-christensen-5)
 
 
 ## Job Dreaming
@@ -52,11 +65,14 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
    1. [GlassDoor](https://www.glassdoor.com/index.htm)
    1. [H1b Visa Link](https://www.h1bdata.info/index.php?em=&job=camera+imaging+quality+engineer&city=&year=all+years)
    1. [Levels](https://www.levels.fyi/?compare=Capital%20One,Paycom,Microsoft&track=Software%20Engineer)
+   1. [TeamBlind](https://www.teamblind.com/salary)
 
 
 
 
 ## Job boards aggregators
+<details>
+<summary>  19 Links... </summary>
 
   1. [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
@@ -77,9 +93,11 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
   1. [Huntr](https://huntr.co/)
   1. [Monster](https://www.monster.com/)
   1. [Snag](https://www.snagajob.com/)
-
+</details>
 
 ## Job boards
+<details>
+<summary>  65 Links... </summary>
 
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
@@ -146,7 +164,7 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
-
+</details>
 
 ## Artificial Intelligence (AI)
 
@@ -251,6 +269,7 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 ### Perl
 
 * [The Perl Job Site](https://jobs.perl.org/)
+</details>
 
 ### PHP
 
@@ -258,6 +277,7 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [Jobbsy](https://jobbsy.dev) - Symfony Jobs
+</details>
 
 ### Python
 
@@ -265,23 +285,28 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [Python Developer Jobs](https://pythonjob.xyz)
+</details>
 
 ### Ruby
 
 * [RubyNow](https://jobs.rubynow.com/)
 * [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
+</details>
 
 ### Rust
 
 * [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 * [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
 * [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
+</details>
 
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
+</details>
 
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
+</details>
 
 ## Remote
 
@@ -293,7 +318,7 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
-
+</details>
 
 ### Remote Job Aggregator
 
@@ -304,6 +329,7 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 * [TheRemoteWork](https://theremotework.co/)
 * [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 * [OkJob](https://okjob.io/) - 4 day week job board
+</details>
 
 ## Startups
 
@@ -311,10 +337,11 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 * [Startup Jobs](https://startup.jobs/)
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+</details>
 
 ## Tech
 
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 * [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
-
+</details>
