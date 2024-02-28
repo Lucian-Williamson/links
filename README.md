@@ -1,7 +1,7 @@
 # Useful Links
 _Credit: Slightly stolen from [awesome](awesome) list_
 
-A curated list of awesome niche job boards. Search tool [here](https://awesomelists.top/#/).
+A curated list of awesome niche job boards. Search tool [here](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ A curated list of awesome niche job boards. Search tool [here](https://awesomeli
 - [Remote](#remote)
 - [Startups](#startups)
 - [Tech](#tech)
-- [Link Search tool](#tech)
+- [Link Search tool](https://awesomelists.top/#/)
 
 
 
