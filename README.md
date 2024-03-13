@@ -93,6 +93,38 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
   1. [scopicsoftware](https://scopicsoftware.hire.trakstar.com/) - Job board and aggregator for software jobs
 </details>
 
+## Company Sites
+<details>
+<summary>  25 Links... </summary>
+
+1. [Amazon](https://hiring.amazon.com/) (e-commerce, cloud computing, AI)
+1. [Microsoft](https://careers.microsoft.com/) (operating systems, productivity software)
+1. [Google](https://www.google.com/about/careers/applications/) (search engine, cloud platforms, AI)
+1. [Meta (formerly Facebook)](https://www.metacareers.com/) (social media, virtual reality)
+1. [Apple](https://www.apple.com/careers/us/) (consumer electronics, software)
+1. [Salesforce](https://careers.salesforce.com/en/) (customer relationship management software)
+1. [Adobe](https://www.adobe.com/careers.html) (creative software, document management)
+1. [IBM](https://www.ibm.com/careers) (enterprise computing, cloud services)
+1. [Oracle](https://www.oracle.com/careers/) (database software, enterprise applications)
+1. [SAP](https://jobs.sap.com/) (enterprise resource planning software)
+1. [VMware](https://blogs.vmware.com/careers/) (cloud computing, virtualization)
+1. [Tesla](https://www.tesla.com/careers) (electric vehicles, clean energy, software)
+1. [Netflix](https://jobs.netflix.com/) (streaming media, entertainment)
+1. [Uber](https://www.uber.com/us/en/careers/) (transportation, logistics)
+1. [PayPal](https://careers.pypl.com/home/) (financial services, online payments)
+1. [Intuit](https://www.intuit.com/careers/) (financial software, tax preparation)
+1. [Spotify](https://www.lifeatspotify.com/) (music streaming, audio)
+1. [Airbnb](https://careers.airbnb.com/) (travel accommodations, hospitality)
+1. [Dropbox](https://jobs.dropbox.com/all-jobs) (cloud storage, file sharing)
+1. [Twilio](https://www.twilio.com/en-us/company/jobs) (cloud communications platform)
+1. [Datadog](https://careers.datadoghq.com/all-jobs/) (cloud monitoring, security)
+1. [Cloudflare](https://www.cloudflare.com/careers/jobs/) (content delivery network, security)
+1. [Zoom](https://careers.zoom.us/home) (video conferencing, communications)
+1. [Slack](https://slack.com/careers) (workplace communication, collaboration)
+1. [Workday](https://www.workday.com/en-us/company/careers/overview.html) (human capital management, cloud)
+
+
+
 ## Job boards
 <details>
 <summary>  65 Links... </summary>
