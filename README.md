@@ -364,7 +364,8 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
 
 ## Startups
 
-* [Startup Jobs](https://startup.jobs/)
+* [Startup Jobs](https://exceptionalstartups.com/list)
+* [Exceptional Startups](https://exceptionalstartups.com/) Top-tier startups by revenue, growth, funding.
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
 </details>
