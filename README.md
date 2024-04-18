@@ -131,6 +131,7 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
 <summary>  65 Links... </summary>
 
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
+  1. [SpaceCrew](https://spacecrew.com/) - The solar system's biggest space jobs site
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Built In](https://builtin.com/jobs/remote) 
   1. [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
@@ -194,7 +195,7 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
-  1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
+  
 </details>
 
 ## Artificial Intelligence (AI)
@@ -351,7 +352,7 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
 </details>
 
-### Remote Job Aggregator
+#### Remote Job Aggregator
 
 * [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 * [remote | OK](https://remoteok.com/)
@@ -376,3 +377,4 @@ A curated list of awesome niche job boards. Search tool [here](https://github.co
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 * [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 </details>
+
